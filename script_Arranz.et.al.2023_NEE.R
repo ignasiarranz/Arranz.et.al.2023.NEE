@@ -26,7 +26,7 @@
 #Set the environment
 
 rm(list = ls(all.names = TRUE))
-setwd("~/Library/Mobile Documents/com~apple~CloudDocs/tricomicet/Postdoc Toulouse/Manuscript temporal dynamics streams/")
+setwd("")
 
 #Load packages
 
